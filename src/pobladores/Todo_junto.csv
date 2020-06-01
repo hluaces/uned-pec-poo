@@ -1,0 +1,202 @@
+Tipo	Autor	Genero	Editorial	Isbn	Titulo	Fecha	Publicación	Suscripción	Duración	Formato	Álbum
+Libro	Abraham Stoker	Horror	Constable & Robinson	9700762394	Drácula 	26/05/97					
+Libro	Dmitry Glukhovsky	Post-apocalíptico	Orionbooks	9785170596782	Metro 2033	01/01/10					
+Libro	J.R.R. Tolkien	Fantasía heroica	George Allen & Unwin	8445070371	El hobbit 	21/09/37					
+Libro	Frank Herbert	Ciencia ficción	Chilton Company	8470021818	DUNE	01/12/65					
+Libro	George R.R. Martin	Novela fantástica	Gilgamesh	97900000000000000	Choque de reyes	01/04/03					
+Libro	Andrzej Sapkowski	Fantasía	Alamut Ediciones	9788493283698	 El último deseo	01/01/93					
+Libro	Graham McNeill	Ciencia ficción	The Black Library	9781665555780	False Gods	01/01/10					
+Libro	Graham McNeill	Ciencia ficción	The Black Library	9781665555781	Fulgrim	01/01/11					
+Libro	Graham McNeill	Ciencia ficción	The Black Library	9781665555782	Mechanicum	01/01/12					
+Libro	Graham McNeill	Ciencia ficción	The Black Library	9781665555783	A Thousand Sons	01/01/13					
+Libro	Graham McNeill	Ciencia ficción	The Black Library	9781665555784	The Outcast Dead	01/01/14					
+Libro	Graham McNeill	Ciencia ficción	The Black Library	9781665555785	Kryptos	01/01/15					
+Libro	H.P. Lovecraft	Horror	Weird tales	9781627555784	La llamada de Cthulhu	01/01/26					
+Libro	Isaac Asimov	Ciencia ficción	Debolsillo	9781627512832	Bovedas De Acero	02/01/13					
+Libro	Isaac Asimov	Ciencia ficción	Debolsillo	9781627512833	El Sol Desnudo	02/01/14					
+Libro	Isaac Asimov	Ciencia ficción	Debolsillo	9781627512834	EL FIN DE LA ETERNIDAD	02/01/15					
+Libro	Isaac Asimov	Ciencia ficción	Debolsillo	9781627512835	Los Robots Del Amanecer	02/01/26					
+Libro	Isaac Asimov	Ciencia ficción	Emecé Editores	9781627512836	Los Robots Y El Imperio	03/01/13					
+Libro	Joe Abercrombie	Fantasía	Alianza Editorial	9781627512837	Los héroes	03/01/14					
+Libro	Joe Abercrombie	Fantasía	Alianza Editorial	9781627512838	Tierras rojas	03/01/15					
+Libro	JRR Tolkien	Fantasía	Desconocido	9781627512839	El Señor de los Anillos	03/01/26					
+Libro	Orson Scott Card	Ciencia ficción	Ediciones Byblos	9781627512840	El juego de Ender	04/01/13					
+Libro	Orson Scott Card	Ciencia ficción	Ediciones Byblos	9781627512841	La voz de los muertos	04/01/14					
+Libro	Orson Scott Card	Ciencia ficción	Ediciones Byblos	9781627512842	Ender el Xenocida	04/01/15					
+Periódico	Unidad Editorial	Deporte			Cristiano ronaldo marca otro gol	05/05/16	5050	Marca			
+Periódico	Unidad Editorial	Deporte			El lugo asciende a primera división	06/05/16	5051	Marca			
+Periódico	Unidad Editorial	Deporte			Todo sobre fútbol y un poco sobre otras cosas	07/05/16	5052	Marca			
+Periódico	Unidad Editorial	Deporte			El Málaga ficha a paco	08/05/16	5053	Marca			
+Periódico	Unidad Editorial	Deporte			El barsa y el madrid se declaran en bancarrota	09/05/16	5054	Marca			
+Revista	Condé nast publications	Tecnología			Apple demanda a Microsoft 	04/05/16	634	Wired			
+Revista	Condé nast publications	Tecnología			Microsoft demanda a Google	05/05/16	635	Wired			
+Revista	Condé nast publications	Tecnología			Google demanda a Apple	06/05/16	636	Wired			
+Revista	Condé nast publications	Tecnología			Como los robots sustituirán a los humanos en diez años	07/05/16	637	Wired			
+Periódico	Grupo Prisa	Noticias			Mariano Rajoy dice que “la culpa es del PSOE”	05/05/16	10534	El país			
+Periódico	Grupo Prisa	Noticias			Pedro Sánchez dice que “la culpa es del PP”	06/05/16	10535	El país			
+Periódico	Grupo Prisa	Noticias			Lugo abandona la zona Euro	07/05/16	10536	El país			
+Periódico	Grupo Prisa	Noticias			El alcalde de Madrid se privatiza a si mismo	08/05/16	10537	El país			
+Video	Peter Jackson	Fantasía			El señor de los anillos: la comunidad del anillo	01/12/01			178	mkv	
+Video	Peter Jackson	Fantasía			El señor de los anillos: las dos torres	01/12/02			179	mkv	
+Video	Peter Jackson	Fantasía			El señor de los anillos: el retorno del rey	01/12/03			200	mkv	
+Video	Stanley Kubrick	Ciencia ficción			2001: odisea en el espacio	06/04/68			160	mp4	
+Video	Stanley Kubrick	Acción			La chaqueta metálica	22/01/88			111	mpeg	
+Video	Christopher Nolan	Ciencia ficción			Interestelar	26/10/14			169	avi	
+Video	Antonio Expósito	Acción			Kárate a muerte en torremolinos	01/01/13			79	mp4	
+Audio	Satyricon	Black metal			Walk The Path Of Sorrow	01/01/96			5	CD	Dark Medieval Times
+Audio	Satyricon	Black metal			Dark Medieval Times	01/01/96			5	CD	Dark Medieval Times
+Audio	Satyricon	Black metal			Skyggedans	01/01/96			6	CD	Dark Medieval Times
+Audio	Satyricon	Black metal			Min Hyllest Til Vinterland	01/01/96			5	CD	Dark Medieval Times
+Audio	Satyricon	Black metal			Into The Mighty Forest	01/01/96			3	CD	Dark Medieval Times
+Audio	Satyricon	Black metal			The Dark Castle In The Deep Fo	01/01/96			6	CD	Dark Medieval Times
+Audio	Satyricon	Black metal			Taakeslottet	01/01/96			4	CD	Dark Medieval Times
+Audio	Rammstein	Industrial			Wollt ihr das Bett in Flammen Sehen?	01/01/96			6	mp3	Herzeleid
+Audio	Rammstein	Industrial			Der Meister	01/01/00			3	mp3	Herzeleid
+Audio	Rammstein	Industrial			Asche zu Asche	01/01/00			2	mp3	Herzeleid
+Audio	Rammstein	Industrial			Seemann	01/01/00			2	mp3	Herzeleid
+Audio	Rammstein	Industrial			Du Riechst So Gut	01/01/00			6	mp3	Herzeleid
+Audio	Rammstein	Industrial			Das Alte Leid	01/01/00			2	mp3	Herzeleid
+Audio	Rammstein	Industrial			Heirate Mich	01/01/00			5	mp3	Herzeleid
+Audio	Rammstein	Industrial			Herzeleid	01/01/00			5	mp3	Herzeleid
+Audio	Rammstein	Industrial			Laichzeit	01/01/00			6	mp3	Herzeleid
+Audio	Rammstein	Industrial			Rammstein	01/01/00			5	mp3	Herzeleid
+Audio	Metallica	Thrash metal			Fight fire with fire	01/01/89			6	mp3	Ride the Lightning
+Audio	Metallica	Thrash metal			Ride the Lightning	01/01/89			3	mp3	Ride the Lightning
+Audio	Metallica	Thrash metal			For whom the bell tolls	01/01/89			4	mp3	Ride the Lightning
+Audio	Metallica	Thrash metal			Fade to Black	01/01/89			4	mp3	Ride the Lightning
+Audio	Metallica	Thrash metal			Trapped under Ice	01/01/89			6	mp3	Ride the Lightning
+Audio	Metallica	Thrash metal			Escape	01/01/89			5	mp3	Ride the Lightning
+Audio	Metallica	Thrash metal			Creeping Death	01/01/89			4	mp3	Ride the Lightning
+Audio	Metallica	Thrash metal			The Call of Ktulu	01/01/89			3	mp3	Ride the Lightning
+Audio	Lord Belial	Black metal			Succubi Infernal	01/01/00			5	mp3	Nocturnal Beast
+Audio	Lord Belial	Black metal			Demonic Possession	01/01/00			6	mp3	Nocturnal Beast
+Audio	Lord Belial	Black metal			Desolate Passage	01/01/00			3	mp3	Nocturnal Beast
+Audio	Lord Belial	Black metal			Nocturnus	01/01/00			4	mp3	Nocturnal Beast
+Audio	Lord Belial	Black metal			Insufferable Rituals	01/01/00			5	mp3	Nocturnal Beast
+Audio	Lord Belial	Black metal			Monarchy of Death	01/01/00			6	mp3	Nocturnal Beast
+Audio	Lord Belial	Black metal			Fleshbound	01/01/00			6	mp3	Nocturnal Beast
+Audio	Lord Belial	Black metal			Spiritual Damnation	01/01/00			3	mp3	Nocturnal Beast
+Audio	Lord Belial	Black metal			Indoctrination of Human Sorrow	01/01/00			2	mp3	Nocturnal Beast
+Audio	Lord Belial	Black metal			Deathmarch (Outro)	01/01/00			3	mp3	Nocturnal Beast
+Audio	Limbonic Art	Black metal			Beneath The Burial Surface	01/01/00			6	mp3	Moon in the Scorpio
+Audio	Limbonic Art	Black metal			Moon In The Scorpio	01/01/97			6	mp3	Moon in the Scorpio
+Audio	Limbonic Art	Black metal			Through Gleams Of Death	01/01/97			4	mp3	Moon in the Scorpio
+Audio	Limbonic Art	Black metal			In Mourning Mystique	01/01/97			5	mp3	Moon in the Scorpio
+Audio	Limbonic Art	Black metal			Beyond The Candles Burning	01/01/97			3	mp3	Moon in the Scorpio
+Audio	Limbonic Art	Black metal			Darkzone Martyrium	01/01/97			6	mp3	Moon in the Scorpio
+Audio	Limbonic Art	Black metal			The Dark Rivers Of The Heart	01/01/97			3	mp3	Moon in the Scorpio
+Audio	Immortal	Black metal			Triumph	01/01/97			6	mp3	Damned In Black
+Audio	Immortal	Black metal			Wrath From Above	01/01/97			3	mp3	Damned In Black
+Audio	Immortal	Black metal			Against The Tide 	01/01/97			2	mp3	Damned In Black
+Audio	Immortal	Black metal			My Dimension	01/01/97			6	mp3	Damned In Black
+Audio	Immortal	Black metal			The Darkness That Embrace Me 	01/01/97			5	mp3	Damned In Black
+Audio	Immortal	Black metal			In Our Visions Blest	01/01/97			2	mp3	Damned In Black
+Audio	Immortal	Black metal			Damned In Black	01/01/97			2	mp3	Damned In Black
+Audio	El Reno Renardo	Freak metal			Renux Renardi	01/01/08			5	mp3	Y El Reino De La Cagalera De Bisbal
+Audio	El Reno Renardo	Freak metal			Cambio Radical	01/01/08			5	mp3	Y El Reino De La Cagalera De Bisbal
+Audio	El Reno Renardo	Freak metal			Hasta La Polla	01/01/08			4	mp3	Y El Reino De La Cagalera De Bisbal
+Audio	El Reno Renardo	Freak metal			Ctrl+Alt+Supr	01/01/08			6	mp3	Y El Reino De La Cagalera De Bisbal
+Audio	El Reno Renardo	Freak metal			El Bogavante	01/01/08			4	mp3	Y El Reino De La Cagalera De Bisbal
+Audio	El Reno Renardo	Freak metal			El Bardo Bastardo (In The Forest)	01/01/08			5	mp3	Y El Reino De La Cagalera De Bisbal
+Audio	El Reno Renardo	Freak metal			Creci En Los Ochenta	01/01/08			4	mp3	Y El Reino De La Cagalera De Bisbal
+Audio	El Reno Renardo	Freak metal			Zapping (Part II)	01/01/08			3	mp3	Y El Reino De La Cagalera De Bisbal
+Audio	El Reno Renardo	Freak metal			Cien Idiotas	01/01/08			6	mp3	Y El Reino De La Cagalera De Bisbal
+Audio	El Reno Renardo	Freak metal			Tu Hamster	01/01/08			3	mp3	Y El Reino De La Cagalera De Bisbal
+Audio	El Reno Renardo	Freak metal			Vomito	01/01/08			4	mp3	Y El Reino De La Cagalera De Bisbal
+Audio	El Reno Renardo	Freak metal			Fiesta Palangana	01/01/08			5	mp3	Y El Reino De La Cagalera De Bisbal
+Audio	El Reno Renardo	Freak metal			Amamos La Birra	01/01/08			3	mp3	Y El Reino De La Cagalera De Bisbal
+Audio	El Reno Renardo	Freak metal			Trilorgia Dia 1: Despiporre	01/01/08			6	mp3	Y El Reino De La Cagalera De Bisbal
+Audio	El Reno Renardo	Freak metal			Trilorgia Dia 2: Secuelas	01/01/08			5	mp3	Y El Reino De La Cagalera De Bisbal
+Audio	El Reno Renardo	Freak metal			Trilorgia Dia 3: Urgencias	01/01/08			5	mp3	Y El Reino De La Cagalera De Bisbal
+Audio	El Reno Renardo	Freak metal			El Punky Perroflauta Que Tocaba La Cancion Del Equipo A Y Fue Ejecutado Por Luke Skywalker	01/01/08			4	mp3	Y El Reino De La Cagalera De Bisbal
+Audio	Dimmu Borgir	Symphonic black metal			Mourning Palace	01/01/96			2	mp3	Enthrone Darkness Triumphant
+Audio	Dimmu Borgir	Symphonic black metal			Spellbound (By the devil)	01/01/96			3	mp3	Enthrone Darkness Triumphant
+Audio	Dimmu Borgir	Symphonic black metal			In Deaths Embrace	01/01/96			4	mp3	Enthrone Darkness Triumphant
+Audio	Dimmu Borgir	Symphonic black metal			Relinquishment Of Spirit And Flesh	01/01/96			4	mp3	Enthrone Darkness Triumphant
+Audio	Dimmu Borgir	Symphonic black metal			The Night's Masquerade	01/01/96			5	mp3	Enthrone Darkness Triumphant
+Audio	Dimmu Borgir	Symphonic black metal			Tormentor Of Christian Souls	01/01/96			6	mp3	Enthrone Darkness Triumphant
+Audio	Dimmu Borgir	Symphonic black metal			Entrance	01/01/96			5	mp3	Enthrone Darkness Triumphant
+Audio	Dimmu Borgir	Symphonic black metal			Master Of Disharmony	01/01/96			2	mp3	Enthrone Darkness Triumphant
+Audio	Dimmu Borgir	Symphonic black metal			Prudence's Fall	01/01/96			6	mp3	Enthrone Darkness Triumphant
+Audio	Dimmu Borgir	Symphonic black metal			A Succubus In Rapture	01/01/96			3	mp3	Enthrone Darkness Triumphant
+Audio	Dimmu Borgir	Symphonic black metal			Raabjorn Speiler Draugheimens Skodde	01/01/96			4	mp3	Enthrone Darkness Triumphant
+Audio	Dimmu Borgir	Symphonic black metal			Raabjorn Speiler Draugheimens Skodde	01/01/96			6	mp3	Enthrone Darkness Triumphant
+Audio	Amon Amarth	Symphonic death metal			As Loke Falls	01/01/10			5	mp3	Deceiver of the Gods
+Audio	Amon Amarth	Symphonic death metal			Father of the Wolf	01/01/10			5	mp3	Deceiver of the Gods
+Audio	Amon Amarth	Symphonic death metal			Shape Shifter	01/01/10			3	mp3	Deceiver of the Gods
+Audio	Amon Amarth	Symphonic death metal			Under Siege	01/01/10			3	mp3	Deceiver of the Gods
+Audio	Amon Amarth	Symphonic death metal			Blood Eagle	01/01/10			4	mp3	Deceiver of the Gods
+Audio	Amon Amarth	Symphonic death metal			We Shall Destroy	01/01/10			4	mp3	Deceiver of the Gods
+Audio	Amon Amarth	Symphonic death metal			Hel	01/01/10			4	mp3	Deceiver of the Gods
+Audio	Amon Amarth	Symphonic death metal			Coming of the Tide	01/01/10			3	mp3	Deceiver of the Gods
+Audio	Amon Amarth	Symphonic death metal			Warriors of the North	01/01/10			4	mp3	Deceiver of the Gods
+Audio	Amon Amarth	Symphonic death metal			Deceiver of the Gods	01/01/10			4	mp3	Deceiver of the Gods
+Audio	Marduk	Black metal			Panzer Division Marduk	01/01/96			3	mp3	Panzer Division Marduk
+Audio	Marduk	Black metal			Baptism By Fire	01/01/96			6	mp3	Panzer Division Marduk
+Audio	Marduk	Black metal			Christraping Black Metal	01/01/96			5	mp3	Panzer Division Marduk
+Audio	Marduk	Black metal			Scorched Earth	01/01/96			5	mp3	Panzer Division Marduk
+Audio	Marduk	Black metal			Beast of Prey	01/01/96			5	mp3	Panzer Division Marduk
+Audio	Marduk	Black metal			Blooddawn	01/01/96			3	mp3	Panzer Division Marduk
+Audio	Marduk	Black metal			502	01/01/96			3	mp3	Panzer Division Marduk
+Audio	Marduk	Black metal			Fistfucking God's Planet	01/01/96			2	mp3	Panzer Division Marduk
+Audio	Burzum	Ambient black metal			Dunkelheit	01/01/96			3	mp3	Filosofem
+Audio	Burzum	Ambient black metal			Jesus' Tod	01/01/96			2	mp3	Filosofem
+Audio	Burzum	Ambient black metal			Erblicket Die Töchter Des Firm	01/01/96			6	mp3	Filosofem
+Audio	Burzum	Ambient black metal			Gebrechlichkeit I	01/01/96			4	mp3	Filosofem
+Audio	Burzum	Ambient black metal			Rundgang Um Die Transzendental	01/01/96			5	mp3	Filosofem
+Audio	Burzum	Ambient black metal			Gebrechlichkeit II	01/01/96			4	mp3	Filosofem
+Audio	Burzum	Ambient black metal			Blóðstokkinn 	01/01/96			2	mp3	Umskiptar
+Audio	Burzum	Ambient black metal			Jóln 	01/01/96			3	mp3	Umskiptar
+Audio	Burzum	Ambient black metal			Alfadanz 	01/01/96			6	mp3	Umskiptar
+Audio	Burzum	Ambient black metal			Hit helga Tré 	01/01/96			2	mp3	Umskiptar
+Audio	Burzum	Ambient black metal			Æra 	01/01/96			4	mp3	Umskiptar
+Audio	Burzum	Ambient black metal			Heiðr 	01/01/96			4	mp3	Umskiptar
+Audio	Burzum	Ambient black metal			Valgaldr 	01/01/96			2	mp3	Umskiptar
+Audio	Burzum	Ambient black metal			Galgviðr 	01/01/96			5	mp3	Umskiptar
+Audio	Burzum	Ambient black metal			Surtr Sunnan 	01/01/96			4	mp3	Umskiptar
+Audio	Burzum	Ambient black metal			Gullaldr 	01/01/96			3	mp3	Umskiptar
+Audio	Burzum	Ambient black metal			Níðhöggr 	01/01/96			6	mp3	Umskiptar
+Audio	Marilyn Manson	Alternative rock			Great Big White World	01/01/96			5	ogg	Mechanical Animals
+Audio	Marilyn Manson	Alternative rock			The Dope Show	01/01/96			6	ogg	Mechanical Animals
+Audio	Marilyn Manson	Alternative rock			Mechanical Animals	01/01/96			5	ogg	Mechanical Animals
+Audio	Marilyn Manson	Alternative rock			Rock Is Dead	01/01/96			6	ogg	Mechanical Animals
+Audio	Marilyn Manson	Alternative rock			Disassociative	01/01/96			5	ogg	Mechanical Animals
+Audio	Marilyn Manson	Alternative rock			The Speed Of Pain	01/01/96			4	ogg	Mechanical Animals
+Audio	Marilyn Manson	Alternative rock			Posthuman	01/01/96			5	ogg	Mechanical Animals
+Audio	Marilyn Manson	Alternative rock			I Want To Disappear	01/01/96			4	ogg	Mechanical Animals
+Audio	Marilyn Manson	Alternative rock			I Don't Like The Drugs (B	01/01/96			3	ogg	Mechanical Animals
+Audio	Marilyn Manson	Alternative rock			New Model No.	01/01/96			4	ogg	Mechanical Animals
+Audio	Marilyn Manson	Alternative rock			User Friendly	01/01/96			4	ogg	Mechanical Animals
+Audio	Marilyn Manson	Alternative rock			Fundamentally Loathsome	01/01/96			4	ogg	Mechanical Animals
+Audio	Marilyn Manson	Alternative rock			The Last Day On Earth	01/01/96			3	ogg	Mechanical Animals
+Audio	Marilyn Manson	Alternative rock			Coma White	01/01/96			2	ogg	Mechanical Animals
+Audio	In Flames	Melodic death metal			Bullet Ride	01/01/96			2	mp4	Clayman
+Audio	In Flames	Melodic death metal			Pinball Map	01/01/96			2	mp4	Clayman
+Audio	In Flames	Melodic death metal			Only for the Weak	01/01/96			6	mp4	Clayman
+Audio	In Flames	Melodic death metal			...As the Future Repeats Today	01/01/96			3	mp4	Clayman
+Audio	In Flames	Melodic death metal			Square Nothing	01/01/96			2	mp4	Clayman
+Audio	In Flames	Melodic death metal			Clay Man	01/01/96			5	mp4	Clayman
+Audio	In Flames	Melodic death metal			Satellites and Astronauts	01/01/96			3	mp4	Clayman
+Audio	In Flames	Melodic death metal			Brush the Dust Away	01/01/96			6	mp4	Clayman
+Audio	In Flames	Melodic death metal			Swim	01/01/96			4	mp4	Clayman
+Audio	In Flames	Melodic death metal			Suburban Me	01/01/96			5	mp4	Clayman
+Audio	In Flames	Melodic death metal			Another Day in Quicksand	01/01/96			5	mp4	Clayman
+Audio	Black Sabbath	Heavy metal			Trashed	01/01/83			6	mp3	Born Again
+Audio	Black Sabbath	Heavy metal			Stonehenge	01/01/83			2	mp3	Born Again
+Audio	Black Sabbath	Heavy metal			Disturbing The Priest	01/01/83			2	mp3	Born Again
+Audio	Black Sabbath	Heavy metal			The Dark	01/01/83			4	mp3	Born Again
+Audio	Black Sabbath	Heavy metal			Zero The Hero	01/01/83			3	mp3	Born Again
+Audio	Black Sabbath	Heavy metal			Digital Bitch	01/01/83			4	mp3	Born Again
+Audio	Black Sabbath	Heavy metal			Born Again	01/01/83			4	mp3	Born Again
+Audio	Black Sabbath	Heavy metal			Hot Line	01/01/83			6	mp3	Born Again
+Audio	Black Sabbath	Heavy metal			Keep It Warm	01/01/83			3	mp3	Born Again
+Audio	Judas Priest	Heavy metal			Rapid Fire	01/01/80			2	wav	British Steel The Re Masters
+Audio	Judas Priest	Heavy metal			Metal Gods	01/01/80			3	wav	British Steel The Re Masters
+Audio	Judas Priest	Heavy metal			Breaking The Law	01/01/80			2	wav	British Steel The Re Masters
+Audio	Judas Priest	Heavy metal			Grinder	01/01/80			4	wav	British Steel The Re Masters
+Audio	Judas Priest	Heavy metal			United	01/01/80			6	wav	British Steel The Re Masters
+Audio	Judas Priest	Heavy metal			You Don't Have To Be Old To Be Wise	01/01/80			6	wav	British Steel The Re Masters
+Audio	Judas Priest	Heavy metal			Living After Midnight	01/01/80			3	wav	British Steel The Re Masters
+Audio	Judas Priest	Heavy metal			The Rage	01/01/80			5	wav	British Steel The Re Masters
+Audio	Judas Priest	Heavy metal			Steeler	01/01/80			6	wav	British Steel The Re Masters
+Audio	Judas Priest	Heavy metal			Grinder Bonus / Live	01/01/80			3	wav	British Steel The Re Masters

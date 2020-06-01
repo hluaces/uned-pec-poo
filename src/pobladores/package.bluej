@@ -1,0 +1,27 @@
+#BlueJ package file
+objectbench.height=76
+objectbench.width=658
+package.editor.height=400
+package.editor.width=560
+package.editor.x=580
+package.editor.y=223
+package.numDependencies=0
+package.numTargets=2
+package.showExtends=true
+package.showUses=true
+target1.height=50
+target1.name=PobladorAplicacion
+target1.showInterface=false
+target1.type=ClassTarget
+target1.typeParameters=
+target1.width=130
+target1.x=10
+target1.y=90
+target2.height=50
+target2.name=PobladorBibliotecas
+target2.showInterface=false
+target2.type=ClassTarget
+target2.typeParameters=
+target2.width=140
+target2.x=10
+target2.y=150
